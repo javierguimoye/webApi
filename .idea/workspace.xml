@@ -307,7 +307,7 @@
       <path value="$PROJECT_DIR$/vendor/smarty/smarty" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="430" />
     <option name="width" value="912" />
     <option name="height" value="735" />

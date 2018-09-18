@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c587ce0d-1532-4229-9fb3-f60812b98f6e" name="BETA" url="http://138.197.222.135">
+        <fileTransfer host="138.197.222.135" port="21" rootFolder="/var/www/html/beta_focus_pe/ademinsa/api">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
